@@ -3,14 +3,26 @@
 This project demonstrates a self-balancing two-wheel robot using an **Arduino Nano**, **MPU6050** IMU sensor, and a dual **DC motor driver**. The robot senses its tilt and corrects its position by driving motors in the opposite direction to restore balance in real-time.
 
 ---
-
 ## 📸 Demo Preview
 
+---
 ### 🔧 connection
 ![Simulation Screenshot](image_vid/connection.png)
 
+---
 ### 🎥 Video Demo
+
+---
 [![Watch the video](https://img.youtube.com/vi/U56SvTm_M8E/0.jpg)](https://youtu.be/U56SvTm_M8E)
+
+---
+### 🔧 design
+
+---
+![design Screenshot](image_vid/solid_design.png)
+
+---
+![design Screenshot](image_vid/solid.png)
 
 ---
 
